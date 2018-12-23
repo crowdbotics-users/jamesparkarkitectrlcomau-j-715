@@ -1,0 +1,3 @@
+rootProject.name = 'jamesparkarkitectrlcomau_j_715'
+
+include ':app'
